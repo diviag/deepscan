@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">DeepScan</string>
+    <string name="pref_name">DeepScan</string>
+
+
+
+    <string name="device_admin_explanation">For experimentation purposes only</string>
+
+    <string name="location_text">Turn on High accuracy location mode for best results</string>
+    <string name="send_alert_email">Send alert email \nWhen someone tries to unlock your device with wrong code</string>
+    <string name="txt_email_sent">Email should be sent to</string>
+</resources>
